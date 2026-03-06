@@ -1,0 +1,11 @@
+# Python Gitignore
+
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# macOS specific files
+.DS_Store

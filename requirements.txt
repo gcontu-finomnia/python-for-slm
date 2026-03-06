@@ -1,0 +1,10 @@
+numpy
+pandas
+nltk
+spacy
+transformers
+requests
+jupyter
+ollama
+llamaindex
+scikit-learn
